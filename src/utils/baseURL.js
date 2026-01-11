@@ -1,6 +1,6 @@
 
 const getBaseUrl = () => {
-    return "foitech-green-backend.vercel.app"
+    return "https://foitech-green-backend.vercel.app"
 }
 
 export default getBaseUrl;
